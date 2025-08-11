@@ -21,3 +21,5 @@ document.addEventListener('mousemove', function(event) {
   
   text.style.textShadow = newShadow;
 })
+
+//* Completed. This is v1.0.0
